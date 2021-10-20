@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Box model*/
+}
+
+body{
+    font-family:"Poppins",sans-serif ;
+    background-color: #f3efef;
+    
+}
+.img-container{
+    height: 200px;
+    overflow: hidden;
+    object-fit: contain;
+}
